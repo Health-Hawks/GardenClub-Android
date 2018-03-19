@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         Login = (Button) findViewById(R.id.button);
 
-        UsernameEt = (EditText)findViewById(R.id.et_loginID);
+        UsernameEt = (EditText)findViewById(R.id.et_login);
         PasswordEt = (EditText)findViewById(R.id.et_pass);
 
         Login.setOnClickListener(new View.OnClickListener() {

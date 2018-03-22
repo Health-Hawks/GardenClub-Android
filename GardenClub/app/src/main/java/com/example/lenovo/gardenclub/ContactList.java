@@ -25,9 +25,7 @@ import java.net.URL;
 
 import static com.example.lenovo.gardenclub.MainActivity.JSON_STRING;
 
-//from github/gardenclub-android>git add .
-//...github/gardenclub-android>git commit -m "add existing files
-//...github/gardenclub-android>git push origin master
+
 
 
 public class ContactList extends AppCompatActivity{

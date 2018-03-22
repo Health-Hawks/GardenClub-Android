@@ -24,6 +24,12 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLEncoder;
 
+//from github/gardenclub-android>git add .
+//...github/gardenclub-android>git commit -m "add existing files
+//...github/gardenclub-android>git push origin master
+
+
+
 public class MainActivity extends AppCompatActivity {
     EditText UsernameEt, PasswordEt;
     Button Login;

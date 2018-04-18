@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Garden Club</string>
+    <string name="app_name">Cape Fear Garden Club, Inc.</string>
     <string name="Login">Submit</string>
     <string name="Clear">Clear</string>
     <string name="LoginID">LoginID</string>
@@ -44,5 +44,7 @@
     <string name="bio_info">Biographical Info</string>
     <string name="year_active">Year Turned Active</string>
     <string name="dyk">Did You Know?</string>
+    <string name="edit">Edit</string>
+    <string name="userNoBio">You don\'t have a bio yet. Tap here to add one</string>
 
 </resources>

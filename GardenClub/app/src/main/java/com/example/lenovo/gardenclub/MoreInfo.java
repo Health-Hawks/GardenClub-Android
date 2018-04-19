@@ -265,5 +265,6 @@ public class MoreInfo extends AppCompatActivity {
         intent.putExtra("user_id", userID);
         intent.putExtra("login_email", loginEmail);
         startActivity(intent);
+        finish();
     }
 }
